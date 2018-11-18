@@ -8,7 +8,7 @@
 -
 
 ## :page_with_curl: Blog
- * [닉네임] (블로그 링크)
+#### [닉네임] (블로그 링크)
 - [Jwooss](https://velog.io/@wodn4131) 
 - [Dahye]() 
 - [Daeho]() 
