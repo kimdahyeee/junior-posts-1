@@ -15,32 +15,32 @@
 
 ## :pushpin: Posts
 
-## 11월 4주
+#### 11월 4주
 - [ ] Jwooss
 - [ ] Dahye
 - [ ] Daeho
 
-## 11월 5주
+#### 11월 5주
 - [ ] Jwooss
 - [ ] Dahye
 - [ ] Daeho
 
-## 12월 1주
+#### 12월 1주
 - [ ] Jwooss
 - [ ] Dahye
 - [ ] Daeho
 
-## 12월 2주
+#### 12월 2주
 - [ ] Jwooss
 - [ ] Dahye
 - [ ] Daeho
 
-## 12월 3주
+#### 12월 3주
 - [ ] Jwooss
 - [ ] Dahye
 - [ ] Daeho
 
-## 12월 4주
+#### 12월 4주
 - [ ] Jwooss
 - [ ] Dahye
 - [ ] Daeho
