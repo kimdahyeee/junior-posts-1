@@ -17,7 +17,7 @@
 
 #### 11월 4주
 - [ ] Jwooss
-- [ ] Dahye
+- [X] Dahye ([토비의 스프링 - 다이나믹 프록시와 팩토리 빈](https://kimdahyeee.github.io/dynamicproxy_and_factory_bean/))
 - [ ] Daeho
 
 #### 11월 5주
