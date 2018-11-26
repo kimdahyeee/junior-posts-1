@@ -21,7 +21,7 @@
 - [X] Daeho ([쉘스크립트 기초](https://daehoho.github.io/2018-11-23/Shell-Script-%EB%B0%B0%EC%9A%B0%EA%B8%B0(1)/))
 
 #### 11월 5주
-- [ ] Jwooss (Weekly Questions #1)
+- [X] Jwooss ([Weekly Questions #1](https://jwooss.github.io/2018-11-26-Weekly-Questions-1/))
 - [ ] Dahye
 - [ ] Daeho
 
