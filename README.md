@@ -22,7 +22,7 @@
 
 #### 11월 5주
 - [X] Jwooss ([Weekly Questions #1](https://jwooss.github.io/2018-11-26-Weekly-Questions-1/))
-- [ ] Dahye
+- [ ] Dahye - 벌금
 - [X] Daeho ([Java String Pool](https://daehoho.github.io/2018-12-03/JAVA-String-Pool/))
 
 #### 12월 1주
