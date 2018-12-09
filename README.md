@@ -27,7 +27,7 @@
 
 #### 12월 1주
 - [ ] Jwooss
-- [ ] Dahye
+- [X] Dahye ([spring_advisor](https://kimdahyeee.github.io/advisor(1)/))
 - [ ] Daeho
 
 #### 12월 2주
