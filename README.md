@@ -26,7 +26,7 @@
 - [X] Daeho ([Java String Pool](https://daehoho.github.io/2018-12-03/JAVA-String-Pool/))
 
 #### 12월 1주
-- [ ] Jwooss
+- [X] Jwooss ([Javascript memory management](https://jwooss.github.io/javascript/2018-12-09-Javasciprt-Memory-Management/))
 - [X] Dahye ([spring_advisor](https://kimdahyeee.github.io/advisor(1)/))
 - [ ] Daeho
 
