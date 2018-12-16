@@ -33,7 +33,7 @@
 #### 12월 2주
 - [X] Jwooss ([Weekly Questions #2](https://jwooss.github.io/wq/2018-11-29-Weekly-Questions-2/))
 - [X] Dahye ([spring_advisor(2)](https://kimdahyeee.github.io/advisor(2)/))
-- [X] Daeho ([String Immutable](https://daehoho.github.io/2018-12-09/JAVA-String%EC%9D%B4-Immutable,-final%EC%9D%B8-%EC%9D%B4%EC%9C%A0/)/) ([Immutable 클래스 만들기](https://daehoho.github.io/2018-12-15/JAVA-Immutable-%ED%81%B4%EB%9E%98%EC%8A%A4-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0/))
+- [X] Daeho ([String Immutable](https://daehoho.github.io/2018-12-09/JAVA-String%EC%9D%B4-Immutable,-final%EC%9D%B8-%EC%9D%B4%EC%9C%A0/)) ([Immutable 클래스 만들기](https://daehoho.github.io/2018-12-15/JAVA-Immutable-%ED%81%B4%EB%9E%98%EC%8A%A4-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0/))
 
 #### 12월 3주
 - [ ] Jwooss
