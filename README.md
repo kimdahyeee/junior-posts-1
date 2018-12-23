@@ -36,7 +36,7 @@
 - [X] Daeho ([String Immutable](https://daehoho.github.io/2018-12-09/JAVA-String%EC%9D%B4-Immutable,-final%EC%9D%B8-%EC%9D%B4%EC%9C%A0/)) ([Immutable 클래스 만들기](https://daehoho.github.io/2018-12-15/JAVA-Immutable-%ED%81%B4%EB%9E%98%EC%8A%A4-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0/))
 
 #### 12월 3주
-- [ ] Jwooss
+- [X] Jwooss ([jQuery data() 메소드 흔한 실수](https://jwooss.github.io/document/2018-12-23-Jquery-data-method/))
 - [ ] Dahye
 - [ ] Daeho
 
