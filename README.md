@@ -37,12 +37,12 @@
 
 #### 12월 3주
 - [X] Jwooss ([jQuery data() 메소드 흔한 실수](https://jwooss.github.io/document/2018-12-23-Jquery-data-method/))
-- [X] Dahye - 벌금 ([모니터링](https://kimdahyeee.github.io/monitoring/))
+- [X] Dahye - 벌금
 - [ ] Daeho - 벌금
 
 #### 12월 4주
 - [ ] Jwooss - 벌금 (vue.js 반응형)
-- [ ] Dahye
+- [X] Dahye ([모니터링](https://kimdahyeee.github.io/monitoring/))
 - [ ] Daeho
 
 ## 💰벌금
