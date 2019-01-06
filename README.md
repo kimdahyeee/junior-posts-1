@@ -45,6 +45,11 @@
 - [X] Dahye ([모니터링](https://kimdahyeee.github.io/monitoring/))
 - [ ] Daeho
 
+### 1월 1주
+- [ ] Jwooss 
+- [] Dahye
+- [X] Daeho ([운영체제 키워드(1)](https://daehoho.github.io/2018-12-15/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%ED%82%A4%EC%9B%8C%EB%93%9C(1)/))
+
 ## 💰벌금
 - 재우 (2회)
 - 다혜 (2회)
