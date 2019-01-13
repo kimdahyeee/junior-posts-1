@@ -19,7 +19,7 @@
 ### 1월 2주
 - [ ] Jwooss
 - [ ] Dahye
-- [ ] Daeho
+- [X] Daeho ([Docker Command)](https://daehoho.github.io/2019-01-13/Docker-%EB%AA%85%EB%A0%B9%EC%96%B4%EC%A0%95%EB%A6%AC/), ([Byte Order])(https://daehoho.github.io/2019-01-13/C-S-ByteOrder/)
 
 
 ### 1월 3주
