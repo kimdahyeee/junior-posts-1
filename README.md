@@ -26,6 +26,8 @@
 - [ ] Jwooss
 - [ ] Dahye
 - [ ] Daeho
+- [ ] Chung
+- [ ] Autumn
 
 
 ### 1월 4주
