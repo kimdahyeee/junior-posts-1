@@ -7,6 +7,7 @@
 - [Jwooss](https://jwooss.github.io) 
 - [Dahye](https://kimdahyeee.github.io/) 
 - [Daeho](https://daehoho.github.io/) 
+- [Chunghyun](https://gosu4285.github.io/)
 
 ## :pushpin: Posts
 
