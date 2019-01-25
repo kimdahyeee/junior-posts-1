@@ -8,6 +8,7 @@
 - [Dahye](https://kimdahyeee.github.io/) 
 - [Daeho](https://daehoho.github.io/) 
 - [Autumn](https://gaeulautumn.github.io/)
+- [Chunghyun](https://gosu4285.github.io/)
 
 ## :pushpin: Posts
 
