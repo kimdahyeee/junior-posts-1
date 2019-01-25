@@ -7,6 +7,7 @@
 - [Jwooss](https://jwooss.github.io) 
 - [Dahye](https://kimdahyeee.github.io/) 
 - [Daeho](https://daehoho.github.io/) 
+- [Autumn](https://gaeulautumn.github.io/)
 
 ## :pushpin: Posts
 
