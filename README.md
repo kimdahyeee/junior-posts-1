@@ -26,7 +26,7 @@
 - [ ] Jwooss
 - [ ] Dahye
 - [ ] Daeho
-- [X] Chung ([Disk trunk]https://gosu4285.github.io/linux/Disk_Trunk/)
+- [X] Chung ([Disk trunk](https://gosu4285.github.io/linux/Disk_Trunk/))
 - [ ] Autumn
 
 
