@@ -15,7 +15,7 @@
 
 ### 2월 2주
 - [ ] Jwooss
-- [ ] Autumn
+- [X] Autumn ([Effective Java 06](https://gaeulautumn.github.io/java/2019/02/17/Effective_Java_06/))
 
 ### 2월 3주
 - [ ] Jwooss
