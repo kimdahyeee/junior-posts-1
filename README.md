@@ -11,7 +11,7 @@
 
 ### 3월 1주
 - [ ] Dahye
-- [ ] wooddy
+- [x] wooddy [Javascript ES6 - 향상된 객체 리터럴](https://blog.wooddy.dev/javascript/es6-enhanced-object-literal/)
 
 ### 3월 2주
 - [ ] Dahye
