@@ -10,7 +10,7 @@
 ## :pushpin: Posts
 
 ### 3월 1주
-- [ ] Dahye
+- [X] Dahye ([토비스프링 정리 1](https://kimdahyeee.github.io/tobyspring1/))
 - [x] wooddy [Javascript ES6 - 향상된 객체 리터럴](https://blog.wooddy.dev/javascript/es6-enhanced-object-literal/)
 
 ### 3월 2주
