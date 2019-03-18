@@ -14,7 +14,7 @@
 - [x] wooddy ([Javascript ES6 - 향상된 객체 리터럴](https://blog.wooddy.dev/javascript/es6-enhanced-object-literal/))
 
 ### 3월 2주
-- [ ] Dahye
+- [X] Dahye ([프로토타입과 스코프](https://kimdahyeee.github.io/prototype_and_scope/))
 - [ ] wooddy
 
 ### 3월 3주
