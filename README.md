@@ -15,7 +15,7 @@
 
 ### 3월 2주
 - [X] Dahye ([프로토타입과 스코프](https://kimdahyeee.github.io/prototype_and_scope/))
-- [ ] wooddy
+- [X] wooddy ([Javascript ES6 - 향상된 객체 리터럴](https://blog.wooddy.dev/javascript/es6-spread-operator/))
 
 ### 3월 3주
 - [ ] Dahye
